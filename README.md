@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SachinSagar11
 - 👀 I’m interested in Technologies that are bringing revolution.........!!!!!!
-- 🌱 I’m currently learning how to git along with Mechanical Engineering and ML, AI, backend...
+- 🌱 Porgressing in ML, AI, backend...
 - 📫 How to reach me - sagargreat99@gmail.com
 
 <!---
